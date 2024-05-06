@@ -21,13 +21,13 @@ This is a simple command-line to-do list application written in Python. It allow
 1. Clone the repository:
 
 ```
-git clone https://github.com/your_username/todo_app.git
+git clone https://github.com/your_username/TODO-LIST-IN-PYTHON.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd todo_app
+cd TODO-LIST-IN-PYTHON
 ```
 
 ### Usage
@@ -46,21 +46,14 @@ Follow the on-screen instructions to interact with the application.
 todo_app/
 │
 ├── main.py
-├── todo.py
-└── task_manager.py
+
 ```
 
 - `main.py`: Entry point of the application. Handles user input and interacts with the `task_manager` module.
-- `todo.py`: Defines the `Todo` class, representing a single task.
-- `task_manager.py`: Contains the `TaskManager` class, responsible for managing tasks - adding, deleting, marking as completed, etc.
+ Defines the `Todo` class, representing a single task.
+Contains the `TaskManager` class, responsible for managing tasks - adding, deleting, marking as completed, etc.
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues and pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can customize this README file further based on your preferences or additional information you want to include.
